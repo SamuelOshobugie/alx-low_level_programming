@@ -5,6 +5,7 @@
 * @str: input
 * Return: half of input
 */
+
 void puts_half(char *str)
 {
 	int index = 0, len = 0, n;
@@ -22,3 +23,4 @@ void puts_half(char *str)
 
 	_putchar('\n');
 }
+
